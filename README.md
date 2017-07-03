@@ -1,3 +1,3 @@
-# OpenGLESDemo_Light
+# OpenGLES Light
 
-    Android上OpenGL ES2.0三种定位光光照测试demo
+    Android上OpenGL ES 2.0三种定位光光照测试demo
